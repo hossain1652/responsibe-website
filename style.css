@@ -1,0 +1,55 @@
+.slider img {
+    width: 100%;
+    
+}
+.slider h1{
+    color: #fabe4c;
+    font-size: 60px;
+}
+.slider span{
+    color:#363958 ;
+}
+.slider button  { 
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    font-size: 20px;
+    background-color: #8da825;
+}
+.container{
+    margin-top: 60px;
+}
+h2{
+    color:#2a2e5c;
+    font-weight: 900;
+}
+h5,p{
+    color:#363958;
+}
+.penguin-card img{
+    background-color: #F1F1F1;
+    
+    
+}
+.card-img, .card-img-top {
+    height: 500px;
+}
+.penguin-card-footer button {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    font-size: 20px;
+    background-color: #8da825;
+    
+}
+.penguin-card-footer h4{
+    font-size: 40px;
+    font-weight: 800;
+    color: #FABE4C;
+}
+
+    
